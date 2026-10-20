@@ -1,0 +1,30 @@
+{
+  "name": "scriptorium-cowork",
+  "version": "0.6.0",
+  "description": "Research-direction and lit-review plugin for Cowork. Grills a half-formed idea into a defensible research question, runs a PRISMA-audited review, ships a synthesis chapter you'd defend. For doctoral researchers and grad students.",
+  "author": {
+    "name": "Jeremiah Wolf",
+    "email": "jeremiahmwolf@gmail.com"
+  },
+  "homepage": "https://github.com/Jerrymwolf/Scriptorium-Cowork",
+  "repository": "https://github.com/Jerrymwolf/Scriptorium-Cowork",
+  "license": "MIT",
+  "keywords": [
+    "literature-review",
+    "research",
+    "research-question",
+    "research-design",
+    "doctoral",
+    "phd",
+    "edd",
+    "dba",
+    "dissertation",
+    "graduate-student",
+    "prisma",
+    "citations",
+    "evidence",
+    "cowork",
+    "obsidian",
+    "notebooklm"
+  ]
+}
